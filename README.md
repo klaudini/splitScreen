@@ -17,7 +17,7 @@ Esta extensión permite dividir tus pestañas abiertas en dos ventanas según tu
 
 1. Descarga el archivo `.zip` de la extensión desde GitHub:
 
-👉 [Descargar extensión](https://github.com/tuusuario/tu-repo/raw/main/extension.zip](https://github.com/klaudini/splitScreen/blob/main/splitScreen.zip))
+👉 [Descargar extensión](https://github.com/klaudini/splitScreen/blob/main/splitScreen.zip)
 
 2. Descomprime el archivo `.zip` en tu computador.
 
